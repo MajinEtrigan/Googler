@@ -1,0 +1,5 @@
+C:\Users\Harmo\source\repos\Google\obj\Release\netcoreapp3.1\Google.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harmo\source\repos\Google\obj\Release\netcoreapp3.1\Google.AssemblyInfoInputs.cache
+C:\Users\Harmo\source\repos\Google\obj\Release\netcoreapp3.1\Google.AssemblyInfo.cs
+C:\Users\Harmo\source\repos\Google\obj\Release\netcoreapp3.1\Google.csproj.CoreCompileInputs.cache
+C:\Users\Harmo\source\repos\Google\obj\Release\netcoreapp3.1\Google.csproj.AssemblyReference.cache
